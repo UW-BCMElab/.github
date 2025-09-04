@@ -1,9 +1,9 @@
 # Bioanalytical Chemistry for Medicine and the Environment (BCME) Lab 
-Welcome to the **BCME Lab** (or the **Theburge Group**)  GitHub space! All code and information is private intellectual properties of the BCME Lab.
+Welcome to the **BCME Lab** (or the **Theberge Group**)  GitHub space! All code and information is private intellectual properties of the BCME Lab.
 
 ## Members
 ### Professors
-> Ashleigh Theburge  
+> Ashleigh Theberge  
 > Erwin Berthier  
 
 *Current members using the BCME GitHub workspace:*  
