@@ -9,7 +9,7 @@ Welcome to the **BCME Lab** (or the **Theberge Group**)  GitHub space! All code 
 *Current members using the BCME GitHub workspace:*  
 
 ### GitHub Organization Manager
-> Lauren Brown ([GitHub profile]((https://github.com/lgbrown1)))
+> Lauren Brown ([GitHub profile](https://github.com/lgbrown1))
 
 ### Graduate Students
 > 
