@@ -25,6 +25,6 @@ Welcome to the **BCME Lab** (or the **Theberge Group**)  GitHub space! All code 
 
 ___
 
-[BCME Lab](https://depts.washington.edu/bcmelab/)
+BCME Lab ([website](https://depts.washington.edu/bcmelab/))  
 University of Washington  
 Department of Chemistry  
