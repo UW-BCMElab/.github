@@ -3,8 +3,8 @@ Welcome to the **BCME Lab** (or the **Theberge Group**)  GitHub space! All code 
 
 ## Members
 ### Professors
-> Ashleigh Theberge  
-> Erwin Berthier  
+- Ashleigh B. Theberge
+- Erwin Berthier  
 
 *Current members using the BCME GitHub workspace:*  
 
